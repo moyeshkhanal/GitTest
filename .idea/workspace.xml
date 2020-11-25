@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="00e25cde-9365-422a-8463-28b27b419f6c" name="Default Changelist" comment="" />
+    <list default="true" id="00e25cde-9365-422a-8463-28b27b419f6c" name="Default Changelist" comment="Lookerie">
+      <change beforePath="$PROJECT_DIR$/.idea/GitTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GitTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +36,6 @@
   <component name="ProjectId" id="1knaX8wGHnGrcFAb1pAXxATlzz8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -31,7 +53,38 @@
       <option name="presentableId" value="Default" />
       <updated>1606338845643</updated>
     </task>
+    <task id="LOCAL-00001" summary="This is awesome">
+      <created>1606341162982</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606341162982</updated>
+    </task>
+    <task id="LOCAL-00002" summary="PLEASE LOOK">
+      <created>1606341252956</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606341252956</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lookerie">
+      <created>1606341354649</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606341354649</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is awesome" />
+    <MESSAGE value="PLEASE LOOK" />
+    <MESSAGE value="Lookerie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lookerie" />
   </component>
   <component name="WindowStateProjectService">
     <state x="934" y="294" key="CommitChangelistDialog2" timestamp="1606338874367">
@@ -42,9 +95,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="342" key="SettingsEditor/0.0.2560.1400/-1920.132.1920.1040@0.0.2560.1400" timestamp="1606338855890" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1606338941868">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="465" y="194" key="Vcs.Push.Dialog.v2" timestamp="1606341363139">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="465" y="194" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606341363139" />
     <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.132.1920.1040@0.0.2560.1400" timestamp="1606338941868" />
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606341689843">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1606341689843" />
   </component>
 </project>
