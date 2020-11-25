@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00e25cde-9365-422a-8463-28b27b419f6c" name="Default Changelist" comment="" />
+    <list default="true" id="00e25cde-9365-422a-8463-28b27b419f6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/robin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1knaX8wGHnGrcFAb1pAXxATlzz8" />
   <component name="ProjectViewState">
@@ -31,20 +42,44 @@
       <option name="presentableId" value="Default" />
       <updated>1606338845643</updated>
     </task>
+    <task id="LOCAL-00001" summary="add">
+      <created>1606338874728</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606338874728</updated>
+    </task>
+    <task id="LOCAL-00002" summary="for loop">
+      <created>1606339004128</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606339004128</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <MESSAGE value="for loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="for loop" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="934" y="294" key="CommitChangelistDialog2" timestamp="1606338874367">
+    <state x="934" y="294" key="CommitChangelistDialog2" timestamp="1606339003749">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="934" y="294" key="CommitChangelistDialog2/0.0.2560.1400/-1920.132.1920.1040@0.0.2560.1400" timestamp="1606338874367" />
-    <state x="781" y="342" key="SettingsEditor" timestamp="1606338855890">
+    <state x="934" y="294" key="CommitChangelistDialog2/0.0.2560.1400/-1920.132.1920.1040@0.0.2560.1400" timestamp="1606339003749" />
+    <state x="781" y="342" key="SettingsEditor" timestamp="1606341038907">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="781" y="342" key="SettingsEditor/0.0.2560.1400/-1920.132.1920.1040@0.0.2560.1400" timestamp="1606338855890" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1606338941868">
+    <state x="781" y="342" key="SettingsEditor/0.0.2560.1400/-1920.132.1920.1040@0.0.2560.1400" timestamp="1606341038907" />
+    <state x="786" y="286" key="Vcs.Push.Dialog.v2" timestamp="1606341048615">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.132.1920.1040@0.0.2560.1400" timestamp="1606338941868" />
+    <state x="786" y="286" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.132.1920.1040@0.0.2560.1400" timestamp="1606341048615" />
+    <state x="1089" y="617" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606340992679">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1089" y="617" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/-1920.132.1920.1040@0.0.2560.1400" timestamp="1606340992679" />
   </component>
 </project>
